@@ -1,0 +1,26 @@
+{
+  "name": "stickman-clicker",
+  "version": "1.0.0",
+  "description": "A fun clicker game featuring a stickman character, coin collection, upgrades, and changing backgrounds.",
+  "main": "src/main.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "typescript": "^4.5.0",
+    "vite": "^2.6.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.2.0"
+  },
+  "keywords": [
+    "clicker",
+    "game",
+    "typescript",
+    "vite"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

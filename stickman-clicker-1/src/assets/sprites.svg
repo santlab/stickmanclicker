@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none;">
+  <symbol id="stickman" viewBox="0 0 100 100">
+    <circle cx="50" cy="20" r="10" fill="black" />
+    <line x1="50" y1="30" x2="50" y2="70" stroke="black" stroke-width="5" />
+    <line x1="50" y1="40" x2="30" y2="50" stroke="black" stroke-width="5" />
+    <line x1="50" y1="40" x2="70" y2="50" stroke="black" stroke-width="5" />
+    <line x1="50" y1="70" x2="30" y2="90" stroke="black" stroke-width="5" />
+    <line x1="50" y1="70" x2="70" y2="90" stroke="black" stroke-width="5" />
+  </symbol>
+  <symbol id="coin" viewBox="0 0 50 50">
+    <circle cx="25" cy="25" r="20" fill="gold" />
+    <text x="25" y="30" font-size="20" text-anchor="middle" fill="black">₵</text>
+  </symbol>
+  <symbol id="background1" viewBox="0 0 800 600">
+    <rect width="800" height="600" fill="lightblue" />
+    <circle cx="100" cy="100" r="50" fill="yellow" />
+  </symbol>
+  <symbol id="background2" viewBox="0 0 800 600">
+    <rect width="800" height="600" fill="lightgreen" />
+    <rect x="200" y="300" width="400" height="200" fill="brown" />
+  </symbol>
+  <symbol id="background3" viewBox="0 0 800 600">
+    <rect width="800" height="600" fill="lightcoral" />
+    <polygon points="400,100 450,200 350,200" fill="darkgreen" />
+  </symbol>
+</svg>
